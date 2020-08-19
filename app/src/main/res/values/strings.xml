@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IntentsProj</string>
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="ok">OK</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="divide">/</string>
+    <string name="To">To</string>
+    <string name="sending">sending message</string>
 </resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_toast_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F14E23"
+    android:contentDescription="To"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/custom_toast_message"
+        android:layout_width="wrap_content"
+        android:layout_height="270dp"
+        android:contentDescription="@string/To"
+        android:text="@string/sending" />
+</LinearLayout>
+
+
+
+
+
